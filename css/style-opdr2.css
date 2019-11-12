@@ -1,3 +1,29 @@
 html, body{
     height: 100%;
+ 
+}
+body{
+    display: flex;
+}
+aside{
+    height: 100%;
+    width: 20%;    
+    background: green;
+}
+main{
+    height: 100%;
+    width: 80%;
+    background: rgb(255, 145, 0);
+}
+.menu-button{
+    height: 100px;
+    width: 150px; 
+    margin: 70px;
+    background-color: white;
+}
+.menu-button2{
+    height: 150px;
+    width: 950px;  
+    margin: 70px;
+    background-color: white;
 }
